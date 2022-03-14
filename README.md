@@ -1,6 +1,8 @@
 # .Net-Workshop
-This a store management project that manages different products, providors and categories .
-![diag](https://user-images.githubusercontent.com/78981558/158199574-74629494-6ecb-4b37-8c6d-1d6337f208c4.png)
+This a store management project that manages different products, providers and categories .
+<div align=center>
+<img src="https://user-images.githubusercontent.com/78981558/158199574-74629494-6ecb-4b37-8c6d-1d6337f208c4.png">
+</div>
 
 ## ✨ Setup
 To get a local copy up and running follow these simple example steps.
