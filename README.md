@@ -1,4 +1,4 @@
-# .Net-Workshop
+# Dotnet Store Project
 This a store management project that manages different products, providers and categories .
 <div align=center>
 <img src="https://user-images.githubusercontent.com/78981558/158199574-74629494-6ecb-4b37-8c6d-1d6337f208c4.png">
@@ -21,7 +21,7 @@ _In order to install the app you need to follow the instructions below :_
 
 1. Clone the repo
    ```sh
-   git clone git clone https://github.com/ahlem-phantom/.Net-Workshop.git
+   git clone git clone https://github.com/ahlem-phantom/Dotnet-Store-Project.git
    cd .Net-Workshop
    ```
    
